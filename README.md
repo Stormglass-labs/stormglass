@@ -59,7 +59,9 @@ terraform show -json tfplan > plan.json
 4. Impact model
 5. Control and evidence mapper
 6. Narrative layer
-7. Agent conduct lab
+7. Agent conduct lab, including rogue-agent containment and kill-switch testing
+8. Threat behaviour library
+9. Social engineering layer
 
 The scripts above are the first slice of the twin builder and the simulation engine.
 
